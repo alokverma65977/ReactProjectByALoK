@@ -1,0 +1,14 @@
+{
+  "name": "AwesomeProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.17.0",
+    "react-native-custom-action-sheet": "0.0.6",
+    "react-native-icons": "^0.7.0",
+    "react-native-scrollable-tab-view": "^0.3.4"
+  }
+}
